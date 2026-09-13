@@ -1,4 +1,4 @@
-print("CÁLCULO DE MÉDIA DO ESTUDANTE")
+print("CÁLCULO DE MÉDIA DO ESTUDANTE:")
 
 notas = []
 
